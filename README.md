@@ -1,0 +1,2 @@
+# App_Store_and_GoogPlay_App_Analysis
+In this project, I analyzed a large dataset to generate insights that can help us maximize revenues from apps that are free on Google Play and Apple Store. The source of revenue is in-app ads. This means that our revenue for any given app is mostly influenced by the number of users that use our app.  My goal for this project is to analyze data to help developers understand what type of apps are likely to attract more users.
